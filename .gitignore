@@ -1,0 +1,15 @@
+# Ignore de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Node (caso use no futuro)
+node_modules/
+npm-debug.log
